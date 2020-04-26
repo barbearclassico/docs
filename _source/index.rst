@@ -6,6 +6,12 @@
 
    infra/tools.rst
 
+.. toctree::
+   :maxdepth: 3
+   :caption: Development
+
+   devel/devel.rst
+
 Indices and tables
 ==================
 
