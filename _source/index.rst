@@ -6,11 +6,19 @@
 
    infra/tools.rst
 
+
+.. toctree::
+   :maxdepth: 3
+   :caption: Workflow
+
+   workflow/hardening.rst 
+
 .. toctree::
    :maxdepth: 3
    :caption: Development
 
    devel/devel.rst
+
 
 Indices and tables
 ==================

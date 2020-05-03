@@ -16,6 +16,7 @@ Clone the required repositories on the same folder, and open 2 terminal windows.
 
 Spin up the docker containers with:
 ::
+
   docker-compose up
 
 We can see the results at 
