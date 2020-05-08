@@ -44,6 +44,18 @@ For barbearclassico website we count with 3 databases:
 -  staging
 -  tests
 
+
++--------------+----------+--------------+----------------------+
+| Database     |   Host   | SMF Version  | Password path        |
++==============+==========+==============+======================+
+| production   | oxygene  |  2.0.17      |  mysql/bc/production |
++--------------+----------+--------------+----------------------+
+| staging      | palladio |  2.0.17      |  mysql/bc/staging    |
++--------------+----------+--------------+----------------------+
+| tests        | palladio |  2.0.17      |  mysql/bc/tests      |
++--------------+----------+--------------+----------------------+
+
+
 Package repository
 ------------------
 
